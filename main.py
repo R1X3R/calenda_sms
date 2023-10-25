@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Meu Aplicativo Streamlit com Calendário do Google")
+    st.title("Calendário do Google - SMS/Assis")
 
     # Inserir o código HTML do calendário do Google
     st.markdown(
